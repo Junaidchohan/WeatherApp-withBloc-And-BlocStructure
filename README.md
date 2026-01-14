@@ -3,7 +3,8 @@
 A Flutter weather application built with BLoC state management and clean architecture principles.
 The main goal of this project is to demonstrate scalable state management, proper separation of concerns, and production ready BLoC pattern usage.
 
-```🚀 Key Objectives of This Project
+```
+🚀 Key Objectives of This Project
 Implement BLoC pattern for predictable and testable state management
 Apply clean architecture with clear separation of UI, business logic, and data layers
 Handle asynchronous API calls using BLoC events and states
