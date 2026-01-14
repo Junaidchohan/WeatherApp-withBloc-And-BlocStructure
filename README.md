@@ -5,7 +5,7 @@ The main goal of this project is to demonstrate scalable state management, prope
 
 ## 📸 App Screenshot
 
-![Weather App UI](assets\screenshots\weather_app_ui.png.png)
+![Weather App UI](assets\screenshots\weather_app_ui.png)
 
 
 ```
